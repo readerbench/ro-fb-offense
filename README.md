@@ -40,7 +40,7 @@ In this repository we provide a reduced, more balanced dataset with this distrib
 
 # Paper citation
 ```
-@inproceedings{busuioc2022fb-ro-offens,
+@inproceedings{busuioc2022fb-ro-offense,
   title={FB-RO-Offense – A Romanian Dataset and Baseline Models for detecting Offensive Language in Facebook Comments},
   author={ Busuioc, Gabriel-Razvan and Paraschiv, Andrei and Dascalu, Mihai},
   booktitle={International Symposium on Symbolic and Numeric Algorithms for Scientific Computing (SYNASC) 2022},
